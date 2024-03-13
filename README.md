@@ -1,7 +1,7 @@
 # MODULO1
 ## EQUIPO LINCES
 
-Carpeta de Martín Herrera con el módulo 1 del grupo Leyenda
+Carpeta de Martín Herrera con el módulo 1 del grupo Linces
 
 
 
