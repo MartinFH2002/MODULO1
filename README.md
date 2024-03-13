@@ -1,5 +1,5 @@
 # MODULO1
-## EQUIPO LEYENDA
+## EQUIPO LINCES
 
 Carpeta de Martín Herrera con el módulo 1 del grupo Leyenda
 
