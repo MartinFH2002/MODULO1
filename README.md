@@ -1,7 +1,7 @@
 # MODULO1
-## EQUIPO
+## EQUIPO LEYENDA
 
-Carpeta de Martín Herrera con el módulo 1 del grupo
+Carpeta de Martín Herrera con el módulo 1 del grupo Leyenda
 
 
 
